@@ -20,4 +20,4 @@ management application for ASD people.
 
 Submitted to ACM Conference on Human Factors in Computing Systems in 2020
 
-<a href="/resources/submission-manuscript.pdf">Access Full Paper</a>
+[Access Full Paper](resources/submission-manuscript.pdf)
