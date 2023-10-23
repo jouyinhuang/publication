@@ -1,4 +1,4 @@
-# **Exploring the Impact of Sensory Profile and Environmental Factors and Behaviour and Attention of Children with ASD Using Sensory and Smart Devices.**
+# **Exploring the Impact of Sensory Profile and Environmental Factors on Behaviour and Attention of Children with ASD Using Sensors and Smart Devices**
 
 <sup>Deng, L., Rattadilok, L., Huang, J., Xiong, R., Hadian, G. S., Wong, W. L. P., Wang, Z., Li, S., Jiang, L.,
 Thenara, J. M.</sup>
